@@ -15,9 +15,8 @@ A lightweight BepInEx plugin for *Electrician Simulator* that restores the abili
 
 **For Players:**
 1. Ensure you have BepInEx installed for Electrician Simulator.
-2. Download the latest `GraphicsConsoleToggle.dll` from the [Releases](../../releases) tab.
-3. Drop the `.dll` file into your `BepInEx/plugins` folder located in your game directory:
-   `...\Steam\steamapps\common\Electrician Simulator\BepInEx\plugins\`
+2. Download the latest `ElectricianSimulator-DeveloperConsole.zip` from the [Releases](../../releases) tab.
+3. Extract the ZIP file directly into your main Electrician Simulator game directory. The folders will automatically merge and place the plugin in the correct location. Or you can manually extract the DLL file from the `BepInEx/plugins` folder in the ZIP file and manually place it in the game's `BepInEx/plugins` folder
 4. Launch the game, load your save, and press `F9` or `F10`!
 
 ## 💻 Build Instructions
