@@ -8,7 +8,7 @@ A lightweight BepInEx plugin for *Electrician Simulator* that restores the abili
 * **Seamless Integration:** Runs non-destructively in the background and safely waits until you load into a save file before attaching to the user interface.
 
 ## 🛠️ Requirements
-* [BepInEx 6.0.0+ (IL2CPP)](https://github.com/BepInEx/BepInEx)
+* [BepInEx 6.0.0+ (IL2CPP)](https://builds.bepinex.dev/projects/bepinex_be)
 * Electrician Simulator ([Steam Store Link](https://store.steampowered.com/app/1080020/Electrician_Simulator/), [Epic Games Store Link](https://store.epicgames.com/p/electrician-simulator-164e9f), [Microsoft Store Link](https://www.xbox.com/en-US/games/store/electrician-simulator/9NL56ZNV72WT/0010))
 
 ## 📥 Installation
