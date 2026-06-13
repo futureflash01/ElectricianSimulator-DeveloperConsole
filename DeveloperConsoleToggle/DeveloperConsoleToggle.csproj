@@ -5,7 +5,9 @@
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     
     <!-- EDIT THIS PATH to match your local game installation -->
-    <GameDir>E:\SteamLibrary\steamapps\common\Electrician Simulator</GameDir>
+    <!-- Example: E:\SteamLibrary\steamapps\common\Scritchy Scratchy -->
+    <!-- ^^ Make sure path has no quotation marks and uses backslashes only! -->
+    <GameDir>GAME_PATH_HERE</GameDir>
   </PropertyGroup>
 
   <ItemGroup>
